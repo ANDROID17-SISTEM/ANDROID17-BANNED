@@ -1,16 +1,26 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
-	<View android:id="@id/list_bottom_shadow" style="@style/ListBottomShadow" />
-	<com.whatsapp.InfoCard android:layout_width="fill_parent" android:layout_height="wrap_content" app:icContentColor="@color/primary_surface" style="@style/InfoCard">
-		<LinearLayout android:id="@id/exit_group_btn" style="@style/ContactInfoRow">
-			<com.whatsapp.WaImageView android:id="@id/exit_group_icon" android:src="@drawable/ic_exit_group" style="@style/ContactInfoFooterButtonIcon" />
-			<com.whatsapp.WaTextView android:id="@id/exit_group_text" android:text="@string/exit_group" style="@style/ContactInfoFooterButtonText" />
-		</LinearLayout>
-	</com.whatsapp.InfoCard>
-	<com.whatsapp.InfoCard android:id="@id/report_group" android:layout_width="fill_parent" android:layout_height="wrap_content" app:icContentColor="@color/primary_surface" style="@style/InfoCard">
-		<LinearLayout android:id="@id/report_group_btn" style="@style/ContactInfoRow">
-			<com.whatsapp.WaImageView android:id="@id/report_group_icon" android:src="@drawable/ic_spam_report" style="@style/ContactInfoFooterButtonIcon" />
-			<com.whatsapp.WaTextView android:id="@id/report_group_text" android:text="@string/report_group" style="@style/ContactInfoFooterButtonText" />
-		</LinearLayout>
-	</com.whatsapp.InfoCard>
-</LinearLayout>
+<?php
+$headers[] = 'Content-Type: application/www.whatsapp.com/json';
+$headers[] = 'http://www.apache.org/licenses/LICENSE-2.0';
+for ($time=050;$time>-1;$time--){
+  echo "\r                                         \r";
+  echo "\r\033[0;37m".$time." \033[1;32m Aguarde: \033[1;37m";
+  if ($time == 34 or $time == 29 or $time == 24 or $time == 19 or $time == 14 or $time == 9 or $time == 4){echo "•";}
+$headers[] = 'Accept-Encoding: gzip';
+  if ($time == 33 or $time == 28 or $time == 23 or $time == 18 or $time == 13 or $time == 8 or $time == 3){echo "ºº";}
+  $whatdapp[] = 'Baneo/cuenta/multihandler';
+if ($time == 32 or $time == 27 or $time == 22 or $time == 17 or $time == 12 or $time == 7 or $time == 2){echo "•••";}
+  if ($time == 31 or $time == 26 or $time == 21 or $time == 16 or $time == 11 or $time == 6 or $time == 1){echo "ºººº";}
+
+  if ($time == 30 or $time == 25 or $time == 20 or $time == 15 or $time == 10 or $time == 5 or $time == 0){echo "•••••\r";}
+  sleep(1);
+
+if ($headers);
+$headers[] = 'Code-Version: 453216';
+$headers[] = 'Nombre-Version: 2.20.64';
+$headers[] = 'Name: whatsapp';
+}
+$headers[] = 'Connection: Keep-Alive';
+$headers[] = 'User-Agent: okhttp/4.2.2';
+$headers[] = 'Firma-User: com.whatsapp';
+if ($headers == $whatsapp );
+?>
